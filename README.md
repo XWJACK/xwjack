@@ -2,7 +2,8 @@
 
 ### It's only a matter of time.
 
-- 🍺 Not just iOS Developer
-- 🌴 But also Creator
+- 🍺 iOS Developer
+- 🦄 Dapp Developer
+- 🌴 Creator
 
 <a href="https://www.buymeacoffee.com/xwjack" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"  height=60px></a>
